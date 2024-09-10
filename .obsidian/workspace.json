@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a7292d5aa17e48bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7234d97194902ed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b932db27dd4b7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_I. Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b260132a981362a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87a3dd7d483796ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "684f7c18cc3102b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c6246205b4e98f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f069d196784bb3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "198399b87832f5cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3c8dc81328fba48",
+    "type": "split",
+    "children": [
+      {
+        "id": "204e2a33fee28115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb57f90b317551d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2927e27cc9775ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e12ac0728b6cf60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44a4259781e28c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b260132a981362a",
+  "lastOpenFiles": [
+    "_I. Requirements.md",
+    "The flow of substances and samples.md",
+    "Site map.md",
+    "Non-functional requirements.md",
+    "5.4. Create reagents from the order.md",
+    "5.3. Add, edit reagent.md",
+    "5.2. Add, edit sample.md",
+    "5.1. Reagents list.md",
+    "5. Reagents and samples management.md",
+    "4.3. Change order status.md",
+    "4.2. Orders List.md",
+    "4.1. Create Order.md",
+    "4. Order Management.md",
+    "3.2. Create reagent request.md",
+    "3.1. Reagent requests list.md",
+    "3. Reagent request management.md",
+    "2.4. Move items between storages.md",
+    "2.3. View reagents in a storage.md",
+    "2.2. Delete storage.md",
+    "2.1. Create, edit storage location.md",
+    "2. Storage management.md",
+    "1.4. Edit user profile, reset password.md",
+    "1.3. Create user.md",
+    "1.1. User Login.md",
+    "1. User management.md",
+    "Overview.md"
+  ]
+}
