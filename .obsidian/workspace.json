@@ -173,6 +173,8 @@
   },
   "active": "b68fce1ce7ee6213",
   "lastOpenFiles": [
+    "data/list_of_reagents.csv",
+    "data",
     "The List of user stories.md",
     "The flow of substances and samples.md",
     "Site map.md",
@@ -197,7 +199,6 @@
     "2.4. Move items between storages.md",
     "2.3. View reagents in a storage.md",
     "2.2. Delete storage.md",
-    "2.1. Create, edit storage location.md",
-    "1.4. Edit user profile, reset password.md"
+    "2.1. Create, edit storage location.md"
   ]
 }
