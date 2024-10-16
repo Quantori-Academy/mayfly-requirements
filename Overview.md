@@ -41,7 +41,10 @@ Considering postulates above we need to develop a LIMS (Laboratory Information M
     - Search for chemicals in the storage by name, structure, description
         
     - Track what reagents were used for creating a specific sample (track up until the order where the reagent has been bought)
-        
+
+#### Test Data
+
+- Sample list of reagents: `.\data\list_of_reagents.csv`        
 
 #### Glossary
 
