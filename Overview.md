@@ -10,8 +10,6 @@ Considering postulates above we need to develop a LIMS (Laboratory Information M
     
 - Add, delete, edit storage locations (a place where reagents and sample are stored, e.g. Room 12, Cabinet 2, shelf 3)
     
-- Add, delete, edit equipment and its location (e. g. Spectrometer EX151V5, Room 22)
-    
 
 #### Procurement officer
 
